@@ -3,7 +3,7 @@ This repository presents a dataset of Chilean news media coverage during the soc
 
 Interest range: November 15, 2019 – December 17, 2023
 
-# Citation
+## Citation
 If you use this data set in your work please cite the following article:
 ```
 @article{molina2025web,
